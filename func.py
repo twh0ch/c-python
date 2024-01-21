@@ -1,7 +1,4 @@
 """function"""
-def mul(a,b):
-    """function to multiply"""
-    return a * b
 
 def add(a,b):
     """function to add"""
@@ -14,3 +11,7 @@ def sub(a,b):
 def dev(a,b):
     """function to divide"""
     return a//b
+    
+def mul(a,b):
+    """function to multiply"""
+    return a*b
