@@ -1,3 +1,4 @@
+"""function"""
 def mul(a,b):
     """function to multiply"""
     return a * b
